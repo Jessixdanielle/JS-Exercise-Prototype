@@ -41,6 +41,7 @@ function Airplane(name) {
   
  function Person() {
     
+
   
   }
  
